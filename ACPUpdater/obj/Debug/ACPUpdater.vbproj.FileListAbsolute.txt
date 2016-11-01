@@ -1,0 +1,11 @@
+D:\GitHub\ACPUpdater\ACPUpdater\bin\Debug\ACPUpdater.exe.config
+D:\GitHub\ACPUpdater\ACPUpdater\bin\Debug\ACPUpdater.exe
+D:\GitHub\ACPUpdater\ACPUpdater\bin\Debug\ACPUpdater.pdb
+D:\GitHub\ACPUpdater\ACPUpdater\bin\Debug\ACPUpdater.xml
+D:\GitHub\ACPUpdater\ACPUpdater\obj\Debug\ACPUpdater.vbprojResolveAssemblyReference.cache
+D:\GitHub\ACPUpdater\ACPUpdater\obj\Debug\ACPUpdater.MainForm.resources
+D:\GitHub\ACPUpdater\ACPUpdater\obj\Debug\ACPUpdater.Resources.resources
+D:\GitHub\ACPUpdater\ACPUpdater\obj\Debug\ACPUpdater.vbproj.GenerateResource.Cache
+D:\GitHub\ACPUpdater\ACPUpdater\obj\Debug\ACPUpdater.exe
+D:\GitHub\ACPUpdater\ACPUpdater\obj\Debug\ACPUpdater.xml
+D:\GitHub\ACPUpdater\ACPUpdater\obj\Debug\ACPUpdater.pdb
